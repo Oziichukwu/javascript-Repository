@@ -69,3 +69,13 @@ console.log(cohort8Native.gender)
 
 let returnFullname = cohort8Native.getfullname.bind(cohort8Native)
 console.log(returnFullname())
+
+
+//STRING 
+
+let firstName = "ozioma"
+let nameArray = firstName.split("")
+
+console.log(nameArray)
+
+
